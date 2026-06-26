@@ -52,6 +52,21 @@ class BuildPdfTests(unittest.TestCase):
         self.assertIn(".content h1:first-of-type { break-before: avoid; }", build_pdf.BOOK_CSS)
         self.assertNotIn("  .content h2:first-of-type { break-before: avoid; }", build_pdf.BOOK_CSS)
 
+    def test_detects_inlined_chapters(self) -> None:
+        source = """# 母乳喂养Breastfeeding
+
+# 生命最初1000天：奠定一生身心健康的基石
+
+正文一。
+
+# 母乳喂养不亚于万里长征，准备好了吗？
+
+正文二。
+"""
+
+        self.assertTrue(build_pdf.has_inlined_chapters(source))
+        self.assertFalse(build_pdf.has_inlined_chapters("# 母乳喂养Breastfeeding\n"))
+
     def test_resolve_chrome_prefers_env_path(self) -> None:
         with tempfile.TemporaryDirectory() as raw_tmp:
             fake_chrome = Path(raw_tmp) / "chrome"

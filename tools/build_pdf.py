@@ -108,9 +108,19 @@ def chapter_markdown() -> str:
     return "\n\n---\n\n".join(sections)
 
 
+def has_inlined_chapters(text: str) -> bool:
+    return (
+        "生命最初1000天：奠定一生身心健康的基石" in text
+        and "母乳喂养不亚于万里长征，准备好了吗？" in text
+    )
+
+
 def book_markdown() -> str:
     root_text = prepare_readme_for_pdf(README.read_text(encoding="utf-8"))
     root_text = rewrite_local_readme_links(root_text)
+    if has_inlined_chapters(root_text):
+        return root_text
+
     chapters = chapter_markdown()
     if not chapters:
         return root_text
