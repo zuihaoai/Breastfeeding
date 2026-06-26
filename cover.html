@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>母乳喂养电子书 · 封面</title>
+<style>
+  :root {
+    --ink: #171411;
+    --ink-soft: #5c554d;
+    --accent: #d85f73;
+    --accent-deep: #9f354a;
+    --line: #ded6ce;
+    --paper: #fffdfb;
+  }
+
+  @page { size: A4; margin: 0; }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  html, body {
+    width: 210mm;
+    height: 297mm;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: "PingFang SC", "Songti SC", -apple-system, "Helvetica Neue", system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .cover {
+    position: relative;
+    width: 210mm;
+    height: 297mm;
+    padding: 20mm 18mm;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+
+  .cover::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 8mm;
+    height: 100%;
+    background: var(--accent);
+  }
+
+  .masthead {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    padding-bottom: 5mm;
+    border-bottom: 1.4px solid var(--ink);
+    letter-spacing: 0.18em;
+  }
+
+  .masthead .brand {
+    font-size: 12pt;
+    font-weight: 700;
+    text-transform: uppercase;
+  }
+
+  .masthead .brand .dot { color: var(--accent); }
+
+  .masthead .issue {
+    font-size: 9.5pt;
+    color: var(--ink-soft);
+    letter-spacing: 0.18em;
+  }
+
+  .hero {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .kicker {
+    font-size: 10.5pt;
+    letter-spacing: 0.28em;
+    color: var(--accent-deep);
+    text-transform: uppercase;
+    margin-bottom: 8mm;
+  }
+
+  .title {
+    font-weight: 800;
+    line-height: 0.98;
+    letter-spacing: 0;
+  }
+
+  .title .en {
+    display: block;
+    font-size: 50pt;
+    color: var(--accent);
+    letter-spacing: 0;
+  }
+
+  .title .zh {
+    display: block;
+    font-size: 70pt;
+    color: var(--ink);
+    margin-top: 2mm;
+  }
+
+  .subtitle {
+    margin-top: 10mm;
+    display: flex;
+    align-items: center;
+    gap: 6mm;
+  }
+
+  .subtitle .bar {
+    flex: none;
+    width: 26mm;
+    height: 6px;
+    background: var(--accent);
+  }
+
+  .subtitle .text {
+    font-size: 16pt;
+    font-weight: 600;
+    color: var(--ink);
+    letter-spacing: 0.02em;
+  }
+
+  .tagline {
+    margin-top: 5mm;
+    font-size: 11pt;
+    color: var(--ink-soft);
+    letter-spacing: 0.04em;
+  }
+
+  .byline {
+    margin-top: 7mm;
+    font-size: 11pt;
+    color: var(--ink-soft);
+    letter-spacing: 0.06em;
+  }
+
+  .byline .tag {
+    color: var(--accent-deep);
+    letter-spacing: 0.2em;
+    font-size: 9.5pt;
+    margin-right: 3mm;
+  }
+
+  .byline .name {
+    color: var(--ink);
+    font-weight: 700;
+    font-size: 14pt;
+    letter-spacing: 0.04em;
+  }
+
+  .footer {
+    border-top: 1.4px solid var(--ink);
+    padding-top: 5mm;
+  }
+
+  .index {
+    display: flex;
+    justify-content: space-between;
+    gap: 4mm;
+    margin-bottom: 7mm;
+  }
+
+  .index .item {
+    flex: 1;
+    border-top: 3px solid var(--accent);
+    padding-top: 2.5mm;
+  }
+
+  .index .item .no {
+    font-size: 9pt;
+    font-weight: 700;
+    color: var(--accent-deep);
+    letter-spacing: 0.1em;
+  }
+
+  .index .item .label {
+    display: block;
+    margin-top: 1.5mm;
+    font-size: 9.5pt;
+    color: var(--ink);
+    line-height: 1.35;
+  }
+
+  .meta {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+  }
+
+  .meta .audience {
+    font-size: 9.5pt;
+    color: var(--ink-soft);
+    line-height: 1.6;
+    max-width: 120mm;
+  }
+
+  .meta .audience strong { color: var(--ink); font-weight: 700; }
+
+  .meta .version {
+    text-align: right;
+    flex: none;
+  }
+
+  .meta .version .v {
+    font-size: 20pt;
+    font-weight: 800;
+    color: var(--accent);
+    letter-spacing: 0.04em;
+  }
+
+  .meta .version .date {
+    font-size: 9pt;
+    color: var(--ink-soft);
+    letter-spacing: 0.12em;
+    margin-top: 1mm;
+  }
+</style>
+</head>
+<body>
+  <div class="cover">
+    <header class="masthead">
+      <span class="brand">BREASTFEEDING<span class="dot"> · </span>BOOK</span>
+      <span class="issue">PARENT-FACING GUIDE / 循证养育读本</span>
+    </header>
+
+    <section class="hero">
+      <div class="kicker">写给新手父母与照护者的母乳喂养读本</div>
+      <h1 class="title">
+        <span class="en">Breastfeeding</span>
+        <span class="zh">母乳喂养</span>
+      </h1>
+      <div class="subtitle">
+        <span class="bar"></span>
+        <span class="text">从理想到现实的实操指南</span>
+      </div>
+      <div class="tagline">循证知识 · 真实处境 · 可执行行动</div>
+      <div class="byline"><span class="tag">编著 / BY</span><span class="name">zuihao.AI</span></div>
+    </section>
+
+    <footer class="footer">
+      <nav class="index">
+        <div class="item"><span class="no">01</span><span class="label">母乳喂养的现实</span></div>
+        <div class="item"><span class="no">02</span><span class="label">开始与建立奶量</span></div>
+        <div class="item"><span class="no">03</span><span class="label">疼痛、堵奶与求助</span></div>
+        <div class="item"><span class="no">04</span><span class="label">工作、家庭与支持</span></div>
+        <div class="item"><span class="no">05</span><span class="label">安全边界与资源</span></div>
+      </nav>
+      <div class="meta">
+        <p class="audience">
+          适合<strong>孕晚期家庭、新手父母、照护者</strong>，用于建立判断框架，<br>
+          也用于识别什么时候需要线下专业支持。
+        </p>
+        <div class="version">
+          <div class="v">v0.1.0</div>
+          <div class="date">2026 · 06</div>
+        </div>
+      </div>
+    </footer>
+  </div>
+</body>
+</html>

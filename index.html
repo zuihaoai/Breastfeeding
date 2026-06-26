@@ -1,0 +1,192 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>母乳喂养电子书在线阅读</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #171411;
+      --muted: #5c554d;
+      --line: #ded6ce;
+      --paper: #fffdfb;
+      --panel: #ffffff;
+      --accent: #d85f73;
+      --accent-deep: #9f354a;
+      --link: #24558f;
+    }
+
+    * { box-sizing: border-box; }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--paper);
+      color: var(--ink);
+      font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Segoe UI", sans-serif;
+    }
+
+    body {
+      display: flex;
+      flex-direction: column;
+    }
+
+    .topbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 24px;
+      padding: 18px 24px;
+      border-bottom: 1px solid var(--line);
+      background: var(--panel);
+    }
+
+    .title { min-width: 0; }
+
+    .eyebrow {
+      margin: 0 0 4px;
+      color: var(--accent-deep);
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: .14em;
+      text-transform: uppercase;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(20px, 3vw, 30px);
+      line-height: 1.18;
+      letter-spacing: 0;
+    }
+
+    .summary,
+    .reader-note {
+      margin: 7px 0 0;
+      color: var(--muted);
+      font-size: 14px;
+      line-height: 1.55;
+    }
+
+    .reader-note {
+      margin-top: 5px;
+      font-size: 13px;
+    }
+
+    .actions {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+      gap: 10px;
+      flex: none;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 38px;
+      padding: 0 14px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--panel);
+      color: var(--ink);
+      font-size: 14px;
+      font-weight: 650;
+      text-decoration: none;
+      white-space: nowrap;
+    }
+
+    .button.primary {
+      border-color: var(--accent);
+      background: var(--accent);
+      color: #fff;
+    }
+
+    .button:hover,
+    .button:focus-visible {
+      border-color: var(--link);
+      outline: none;
+    }
+
+    .viewer {
+      flex: 1;
+      min-height: 0;
+      padding: 16px;
+    }
+
+    .pdf-frame {
+      display: block;
+      width: 100%;
+      height: calc(100vh - 146px);
+      min-height: 620px;
+      border: 1px solid var(--line);
+      border-radius: 6px;
+      background: var(--panel);
+    }
+
+    .fallback {
+      display: grid;
+      place-items: center;
+      min-height: 420px;
+      padding: 32px;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .fallback p {
+      max-width: 560px;
+      margin: 0 0 18px;
+      line-height: 1.7;
+    }
+
+    @media (max-width: 760px) {
+      .topbar {
+        align-items: stretch;
+        flex-direction: column;
+        padding: 16px;
+      }
+
+      .actions {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+      }
+
+      .button { padding-inline: 10px; }
+      .viewer { padding: 10px; }
+
+      .pdf-frame {
+        height: calc(100vh - 238px);
+        min-height: 460px;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="title">
+      <p class="eyebrow">Parent-Facing Breastfeeding Guide</p>
+      <h1>母乳喂养电子书</h1>
+      <p class="summary">从理想到现实的循证实操读本</p>
+      <p class="reader-note">下方为轻量预览；打开或下载按钮会使用高清正式 PDF。</p>
+    </div>
+    <nav class="actions" aria-label="阅读操作">
+      <a class="button primary" href="./Breastfeeding.pdf" target="_blank" rel="noopener">打开 PDF</a>
+      <a class="button" href="./Breastfeeding.pdf" download="Breastfeeding.pdf">下载 PDF</a>
+    </nav>
+  </header>
+
+  <main class="viewer">
+    <object class="pdf-frame" data="./Breastfeeding.preview.pdf#view=FitH" type="application/pdf" aria-label="母乳喂养电子书 PDF 在线阅读">
+      <div class="fallback">
+        <div>
+          <p>当前浏览器没有加载内嵌 PDF 预览。请直接打开高清正式 PDF，或下载到本地阅读。</p>
+          <a class="button primary" href="./Breastfeeding.pdf" target="_blank" rel="noopener">打开 PDF</a>
+          <a class="button" href="./Breastfeeding.pdf" download="Breastfeeding.pdf">下载 PDF</a>
+        </div>
+      </div>
+    </object>
+  </main>
+</body>
+</html>

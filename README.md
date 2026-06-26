@@ -1,5 +1,14 @@
 # 母乳喂养Breastfeeding
 Guide to Home Care for Breastfeeding (Ages 0–5)
+
+## 阅读入口
+
+- [在线阅读](https://zuihaoai.github.io/Breastfeeding/)
+- [下载 PDF](https://raw.githubusercontent.com/zuihaoai/Breastfeeding/main/Breastfeeding.pdf)
+- [Markdown 原文](https://github.com/zuihaoai/Breastfeeding/blob/main/README.md)
+
+> GitHub 文件页可能无法稳定预览较大的 PDF。建议使用上面的在线阅读入口，或直接下载 PDF 阅读。
+
 ## 声明
 - 本母乳喂养指南源自WHO、UNICEF、AAP等权威机构
 - 本指南为指导父母母乳喂养的知识体系，非医学指引
