@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 
@@ -74,19 +75,14 @@ def build_readme(book_text: str) -> str:
         return book_text
 
     _, body = book_text.split(marker, 1)
+    body = re.sub(r"(?m)^- 源文件：.*\n?", "", body)
     lines: list[str] = []
     lines.append(f"# {title}")
     lines.append("")
     if subtitle:
         lines.append(subtitle)
         lines.append("")
-    lines.append("## 阅读入口")
-    lines.append("")
-    lines.append("- 在线阅读：[index.html](./index.html)")
-    lines.append("- 下载 PDF：[Breastfeeding.pdf](./Breastfeeding.pdf)")
-    lines.append("- Markdown 原文：[book.md](./book.md)")
-    lines.append("")
-    lines.append("> GitHub 首页直接显示正文目录和章节内容；如果想看版式，再打开在线阅读或 PDF。")
+    lines.append("> 这是完整正文，直接从上到下阅读即可。后续只会在对应章节补充插图和视频。")
     lines.append("")
     lines.append("## 目录")
     lines.append("")

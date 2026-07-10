@@ -23,7 +23,8 @@ class BuildBookTest(unittest.TestCase):
         self.assertIn("# Breastfeeding", text)
         self.assertIn("## 01 孕期认知储备", text)
         self.assertIn("## 07 人工喂养与替代喂养", text)
-        self.assertIn("## 阅读入口", readme)
+        self.assertNotIn("## 阅读入口", readme)
+        self.assertNotIn("源文件：", readme)
         self.assertIn("## 目录", readme)
         self.assertIn("## 01 孕期认知储备", readme)
 
