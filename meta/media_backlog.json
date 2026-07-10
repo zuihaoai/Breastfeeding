@@ -4,7 +4,7 @@
     "title": "孕期认知储备",
     "priority": "P0",
     "images": [
-      "生命最初1000天时间线图",
+      "01-1000d-timeline.svg",
       "DOHaD与成年慢病关系图"
     ],
     "videos": [
@@ -21,7 +21,7 @@
     "title": "初乳与开奶",
     "priority": "P0",
     "images": [
-      "乳汁生成流程图",
+      "02-lactation-flow.svg",
       "新生儿胃容量示意图",
       "早接触/早吸吮动作图"
     ],
@@ -39,7 +39,7 @@
     "title": "产后一周",
     "priority": "P0",
     "images": [
-      "黄疸观察位置图",
+      "03-jaundice-check.svg",
       "正确含乳示意图",
       "涨奶处理流程图"
     ],

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#FFF8EF"/>
+  <text x="120" y="120" fill="#8B4513" font-size="60" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">乳汁生成与排出流程</text>
+  <rect x="120" y="220" width="300" height="150" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <rect x="510" y="220" width="300" height="150" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <rect x="900" y="220" width="300" height="150" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <rect x="1290" y="220" width="180" height="150" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <text x="185" y="285" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">宝宝吸吮</text>
+  <text x="565" y="285" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">催乳素</text>
+  <text x="940" y="285" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">乳汁合成</text>
+  <text x="1318" y="285" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">喂给宝宝</text>
+  <path d="M420 295H500" stroke="#D97706" stroke-width="10" stroke-linecap="round"/>
+  <path d="M810 295H890" stroke="#D97706" stroke-width="10" stroke-linecap="round"/>
+  <path d="M1200 295H1280" stroke="#D97706" stroke-width="10" stroke-linecap="round"/>
+  <text x="165" y="470" fill="#8B4513" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">关键点</text>
+  <text x="120" y="540" fill="#5C3410" font-size="26" font-family="Arial, 'PingFang SC', sans-serif">1. 频繁吸吮会刺激泌乳。</text>
+  <text x="120" y="590" fill="#5C3410" font-size="26" font-family="Arial, 'PingFang SC', sans-serif">2. 乳汁越常被移出，身体越愿意继续制造。</text>
+  <text x="120" y="640" fill="#5C3410" font-size="26" font-family="Arial, 'PingFang SC', sans-serif">3. 母婴分离、奶瓶和补水过早介入都会打断循环。</text>
+</svg>

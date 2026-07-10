@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#FFF8EF"/>
+  <text x="120" y="120" fill="#8B4513" font-size="60" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">新生儿黄疸观察要点</text>
+  <rect x="120" y="220" width="360" height="500" rx="36" fill="#FFF0D7" stroke="#D97706" stroke-width="4"/>
+  <circle cx="300" cy="390" r="90" fill="#FDE68A" stroke="#B45309" stroke-width="4"/>
+  <circle cx="270" cy="360" r="10" fill="#5C3410"/>
+  <circle cx="330" cy="360" r="10" fill="#5C3410"/>
+  <path d="M270 430C292 450 308 450 330 430" stroke="#5C3410" stroke-width="8" stroke-linecap="round"/>
+  <text x="220" y="560" fill="#8B4513" font-size="30" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">皮肤发黄范围</text>
+  <text x="190" y="610" fill="#5C3410" font-size="24" font-family="Arial, 'PingFang SC', sans-serif">脸部 → 胸腹 → 四肢</text>
+  <text x="190" y="655" fill="#5C3410" font-size="24" font-family="Arial, 'PingFang SC', sans-serif">若发黄加深并伴嗜睡/吃奶差，要就医</text>
+  <rect x="580" y="220" width="880" height="500" rx="36" fill="#FFFDF7" stroke="#D97706" stroke-width="4"/>
+  <text x="640" y="300" fill="#8B4513" font-size="34" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">家庭观察清单</text>
+  <text x="640" y="370" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 看黄疸有没有往脚心、手心扩散</text>
+  <text x="640" y="430" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 看精神状态：叫不醒、特别蔫要警惕</text>
+  <text x="640" y="490" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 看吃奶：吸吮差、尿少要警惕</text>
+  <text x="640" y="550" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 看大便颜色：发灰发白要尽快联系医生</text>
+  <text x="640" y="610" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 以医生的胆红素评估为准，不只看“黄不黄”</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1600" y2="900" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF7EC"/>
+      <stop offset="1" stop-color="#FFE2B8"/>
+    </linearGradient>
+    <linearGradient id="line" x1="180" y1="450" x2="1420" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#9A5A19"/>
+      <stop offset="1" stop-color="#D97706"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <text x="120" y="130" fill="#8B4513" font-size="62" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">生命最初1000天</text>
+  <text x="120" y="190" fill="#8B4513" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">从孕期到2岁，母乳喂养、辅食和家庭支持共同塑造长期健康</text>
+  <line x1="180" y1="450" x2="1420" y2="450" stroke="url(#line)" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="220" cy="450" r="26" fill="#8B4513"/>
+  <circle cx="520" cy="450" r="26" fill="#8B4513"/>
+  <circle cx="820" cy="450" r="26" fill="#8B4513"/>
+  <circle cx="1120" cy="450" r="26" fill="#8B4513"/>
+  <circle cx="1380" cy="450" r="26" fill="#8B4513"/>
+  <rect x="150" y="520" width="140" height="150" rx="28" fill="#FFF4DE" stroke="#D97706" stroke-width="4"/>
+  <rect x="450" y="520" width="140" height="150" rx="28" fill="#FFF4DE" stroke="#D97706" stroke-width="4"/>
+  <rect x="750" y="520" width="140" height="150" rx="28" fill="#FFF4DE" stroke="#D97706" stroke-width="4"/>
+  <rect x="1050" y="520" width="140" height="150" rx="28" fill="#FFF4DE" stroke="#D97706" stroke-width="4"/>
+  <rect x="1310" y="520" width="140" height="150" rx="28" fill="#FFF4DE" stroke="#D97706" stroke-width="4"/>
+  <text x="185" y="585" fill="#5C3410" font-size="34" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">孕期</text>
+  <text x="470" y="585" fill="#5C3410" font-size="34" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">初乳</text>
+  <text x="765" y="585" fill="#5C3410" font-size="34" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">产后一周</text>
+  <text x="1080" y="585" fill="#5C3410" font-size="34" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">0-6个月</text>
+  <text x="1355" y="585" fill="#5C3410" font-size="34" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">2岁</text>
+  <text x="170" y="645" fill="#8B4513" font-size="22" font-family="Arial, 'PingFang SC', sans-serif">认知准备</text>
+  <text x="460" y="645" fill="#8B4513" font-size="22" font-family="Arial, 'PingFang SC', sans-serif">早接触</text>
+  <text x="760" y="645" fill="#8B4513" font-size="22" font-family="Arial, 'PingFang SC', sans-serif">黄疸/含乳</text>
+  <text x="1078" y="645" fill="#8B4513" font-size="22" font-family="Arial, 'PingFang SC', sans-serif">按需喂养</text>
+  <text x="1328" y="645" fill="#8B4513" font-size="22" font-family="Arial, 'PingFang SC', sans-serif">辅食过渡</text>
+</svg>
