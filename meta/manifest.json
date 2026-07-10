@@ -3,7 +3,7 @@
   "subtitle": "母乳喂养知识库电子书",
   "version": "draft-1",
   "source_root": "chapters",
-  "entry": "book.md",
+  "entry": "README.md",
   "chapters": [
     {
       "chapter": 1,

@@ -10,6 +10,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 MANIFEST = ROOT / "meta" / "manifest.json"
 OUTPUT = ROOT / "book.generated.md"
+README_OUTPUT = ROOT / "README.md"
 
 
 def read_text(path: Path) -> str:
@@ -64,9 +65,41 @@ def build() -> str:
     return "\n".join(lines).rstrip() + "\n"
 
 
+def build_readme(book_text: str) -> str:
+    manifest = json.loads(read_text(MANIFEST))
+    title = manifest["title"]
+    subtitle = manifest.get("subtitle", "")
+    marker = "## 目录\n\n"
+    if marker not in book_text:
+        return book_text
+
+    _, body = book_text.split(marker, 1)
+    lines: list[str] = []
+    lines.append(f"# {title}")
+    lines.append("")
+    if subtitle:
+        lines.append(subtitle)
+        lines.append("")
+    lines.append("## 阅读入口")
+    lines.append("")
+    lines.append("- 在线阅读：[index.html](./index.html)")
+    lines.append("- 下载 PDF：[Breastfeeding.pdf](./Breastfeeding.pdf)")
+    lines.append("- Markdown 原文：[book.md](./book.md)")
+    lines.append("")
+    lines.append("> GitHub 首页直接显示正文目录和章节内容；如果想看版式，再打开在线阅读或 PDF。")
+    lines.append("")
+    lines.append("## 目录")
+    lines.append("")
+    lines.append(body)
+    return "\n".join(lines).rstrip() + "\n"
+
+
 def main() -> int:
-    OUTPUT.write_text(build(), encoding="utf-8")
+    book = build()
+    OUTPUT.write_text(book, encoding="utf-8")
+    README_OUTPUT.write_text(build_readme(book), encoding="utf-8")
     print(f"written {OUTPUT}")
+    print(f"written {README_OUTPUT}")
     return 0
 
 
