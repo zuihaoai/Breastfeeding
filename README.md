@@ -10,6 +10,7 @@ Guide to Home Care for Breastfeeding (Ages 0–5)
 - [目录总表](./docs/00-目录总表.md)
 - [电子书导入方案](./docs/01-电子书导入方案.md)
 - [插图视频映射方案](./docs/02-插图视频映射方案.md)
+- [教学视频资源清单](./docs/04-教学视频资源清单.md)
 - [发布同步清单](./docs/03-发布同步清单.md)
 - [媒体资源待办](./media.backlog.md)
 
