@@ -195,7 +195,20 @@
   {
     "chapter": 7,
     "title": "人工喂养与替代喂养",
-    "videos": [],
-    "notes": ["目前待补权威公开视频"]
+    "videos": [
+      {
+        "name": "How to Bottle-Feed a Baby",
+        "url": "https://www.parents.com/baby/care/american-baby-how-tos/best-positions-to-bottle-feed-baby/",
+        "source": "Parents / expert-reviewed parenting video page",
+        "purpose": "瓶喂姿势、喂养节奏、拍嗝与基础公式喂养"
+      },
+      {
+        "name": "Your Guide to Sterilizing Your Baby's Bottles",
+        "url": "https://www.parents.com/how-to-sterilize-baby-bottles-nipples-and-more-290136",
+        "source": "Parents / expert-reviewed parenting video page",
+        "purpose": "奶瓶清洁与消毒"
+      }
+    ],
+    "notes": ["公式冲调的独立官方视频仍在继续补充中"]
   }
 ]

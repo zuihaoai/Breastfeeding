@@ -105,5 +105,10 @@
 
 ## 07 人工喂养与替代喂养
 
-- 暂无可用公开视频
-- 备注：目前待补权威公开视频
+- [How to Bottle-Feed a Baby](https://www.parents.com/baby/care/american-baby-how-tos/best-positions-to-bottle-feed-baby/)
+  - 来源：Parents / expert-reviewed parenting video page
+  - 用途：瓶喂姿势、喂养节奏、拍嗝与基础公式喂养
+- [Your Guide to Sterilizing Your Baby's Bottles](https://www.parents.com/how-to-sterilize-baby-bottles-nipples-and-more-290136)
+  - 来源：Parents / expert-reviewed parenting video page
+  - 用途：奶瓶清洁与消毒
+- 备注：公式冲调的独立官方视频仍在继续补充中
