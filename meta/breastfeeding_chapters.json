@@ -1,0 +1,51 @@
+[
+  {
+    "chapter": 1,
+    "title": "孕期认知储备",
+    "source": "docs/母乳喂养/认知与备孕.md",
+    "stage": "孕期",
+    "key_topics": ["1000天", "DOHaD", "母乳倡议", "社会支持"]
+  },
+  {
+    "chapter": 2,
+    "title": "初乳与开奶",
+    "source": "docs/母乳喂养/初乳.md",
+    "stage": "出生后0-2天",
+    "key_topics": ["开奶", "早接触", "早吸吮", "胎便", "NEC"]
+  },
+  {
+    "chapter": 3,
+    "title": "产后一周",
+    "source": "docs/母乳喂养/产后一周.md",
+    "stage": "出生后0-7天",
+    "key_topics": ["黄疸", "含乳", "涨奶", "乳头混淆"]
+  },
+  {
+    "chapter": 4,
+    "title": "0-6个月纯母乳喂养",
+    "source": "docs/母乳喂养/0-6个月纯母乳喂养.md",
+    "stage": "0-6个月",
+    "key_topics": ["吃饱", "喂水", "乳腺炎", "坐月子", "背奶"]
+  },
+  {
+    "chapter": 5,
+    "title": "母乳喂养通识",
+    "source": "docs/母乳喂养/母乳喂养.md",
+    "stage": "0-5岁",
+    "key_topics": ["用药", "生长曲线", "夜奶", "乳糖", "禁忌"]
+  },
+  {
+    "chapter": 6,
+    "title": "辅食过渡",
+    "source": "docs/母乳喂养/辅食添加.md",
+    "stage": "6-24个月",
+    "key_topics": ["添加时间", "第一口辅食", "白名单", "米粉"]
+  },
+  {
+    "chapter": 7,
+    "title": "人工喂养与替代喂养",
+    "source": "docs/母乳喂养/人工喂养.md",
+    "stage": "0-36个月",
+    "key_topics": ["奶粉选择", "历史", "营销", "水", "风险"]
+  }
+]

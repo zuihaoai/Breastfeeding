@@ -1,0 +1,9 @@
+.DS_Store
+*.pdf
+*.tmp
+__pycache__/
+*.pyc
+*.log
+book.generated.md
+media.backlog.md
+dist/

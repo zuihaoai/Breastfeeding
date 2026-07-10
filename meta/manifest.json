@@ -1,0 +1,51 @@
+{
+  "title": "Breastfeeding",
+  "subtitle": "母乳喂养知识库电子书",
+  "version": "draft-1",
+  "source_root": "chapters",
+  "entry": "book.md",
+  "chapters": [
+    {
+      "chapter": 1,
+      "title": "孕期认知储备",
+      "source": "chapters/认知与备孕.md",
+      "media": "meta/media_map.json"
+    },
+    {
+      "chapter": 2,
+      "title": "初乳与开奶",
+      "source": "chapters/初乳.md",
+      "media": "meta/media_map.json"
+    },
+    {
+      "chapter": 3,
+      "title": "产后一周",
+      "source": "chapters/产后一周.md",
+      "media": "meta/media_map.json"
+    },
+    {
+      "chapter": 4,
+      "title": "0-6个月纯母乳喂养",
+      "source": "chapters/0-6个月纯母乳喂养.md",
+      "media": "meta/media_map.json"
+    },
+    {
+      "chapter": 5,
+      "title": "母乳喂养通识",
+      "source": "chapters/母乳喂养.md",
+      "media": "meta/media_map.json"
+    },
+    {
+      "chapter": 6,
+      "title": "辅食过渡",
+      "source": "chapters/辅食添加.md",
+      "media": "meta/media_map.json"
+    },
+    {
+      "chapter": 7,
+      "title": "人工喂养与替代喂养",
+      "source": "chapters/人工喂养.md",
+      "media": "meta/media_map.json"
+    }
+  ]
+}
