@@ -13,6 +13,7 @@ Guide to Home Care for Breastfeeding (Ages 0–5)
 - [教学视频资源清单](./docs/04-教学视频资源清单.md)
 - [发布同步清单](./docs/03-发布同步清单.md)
 - [媒体资源待办](./media.backlog.md)
+- [教学视频待办](./media.videos.md)
 
 > GitHub 文件页可能无法稳定预览较大的 PDF。建议使用上面的在线阅读入口，或直接下载 PDF 阅读。
 

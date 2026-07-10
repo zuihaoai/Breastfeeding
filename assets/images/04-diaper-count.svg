@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#FFF8EF"/>
+  <text x="120" y="120" fill="#8B4513" font-size="60" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">如何判断宝宝是否吃饱</text>
+  <text x="120" y="180" fill="#8B4513" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">用尿布、精神状态和体重变化一起看，不要只看“哭不哭”</text>
+  <rect x="120" y="240" width="420" height="520" rx="36" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <text x="190" y="320" fill="#5C3410" font-size="36" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">每日观察</text>
+  <text x="190" y="390" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 尿湿：不少于 6 次/天</text>
+  <text x="190" y="450" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 大便：颜色逐渐变黄</text>
+  <text x="190" y="510" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 吞咽：喂奶时能听到吞咽</text>
+  <text x="190" y="570" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 精神：醒来后有互动</text>
+  <text x="190" y="630" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 体重：按生长曲线稳定上升</text>
+  <rect x="620" y="240" width="860" height="520" rx="36" fill="#FFFDF7" stroke="#D97706" stroke-width="4"/>
+  <text x="680" y="320" fill="#8B4513" font-size="36" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">何时要尽快联系医生</text>
+  <text x="680" y="390" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 尿少、精神差、叫不醒</text>
+  <text x="680" y="450" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 吸不动、吞咽少、吃奶时间明显变短</text>
+  <text x="680" y="510" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 体重下降后长时间回不来</text>
+  <text x="680" y="570" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 黄疸加深或伴随嗜睡</text>
+  <text x="680" y="630" fill="#5C3410" font-size="28" font-family="Arial, 'PingFang SC', sans-serif">• 家长直觉觉得“不对劲”时，宁可早点问</text>
+</svg>

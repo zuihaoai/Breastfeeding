@@ -20,25 +20,25 @@
   {
     "chapter": 4,
     "title": "0-6个月纯母乳喂养",
-    "image_slots": ["尿布计数图", "乳腺炎流程图", "坐月子误区图"],
+    "image_slots": ["04-diaper-count.svg", "乳腺炎流程图", "坐月子误区图"],
     "video_slots": ["判断吃饱", "乳头破损处理", "背奶演示"]
   },
   {
     "chapter": 5,
     "title": "母乳喂养通识",
-    "image_slots": ["用药矩阵", "生长曲线图", "夜奶节律图"],
+    "image_slots": ["05-medication-flow.svg", "生长曲线图", "夜奶节律图"],
     "video_slots": ["药物与哺乳", "夜奶", "母乳谣言拆解"]
   },
   {
     "chapter": 6,
     "title": "辅食过渡",
-    "image_slots": ["辅食时间线", "第一口辅食图", "噎食风险图"],
+    "image_slots": ["06-complementary-timeline.svg", "第一口辅食图", "噎食风险图"],
     "video_slots": ["辅食添加节奏", "第一口辅食", "白名单讲解"]
   },
   {
     "chapter": 7,
     "title": "人工喂养与替代喂养",
-    "image_slots": ["奶粉对比图", "冲泡步骤图", "营销对照图"],
+    "image_slots": ["07-formula-prep.svg", "冲泡步骤图", "营销对照图"],
     "video_slots": ["奶粉选择", "冲泡水温", "营销识别"]
   }
 ]

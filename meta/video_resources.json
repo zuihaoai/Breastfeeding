@@ -1,0 +1,122 @@
+[
+  {
+    "chapter": 1,
+    "title": "孕期认知储备",
+    "videos": [
+      {
+        "name": "Preparing for Successful Breastfeeding",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/preparing-for-successful-breastfeeding.html",
+        "source": "Stanford Medicine / First Droplets",
+        "purpose": "产前建立预期、理解正确开始方式"
+      },
+      {
+        "name": "Breastfeeding in the First Hour",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/breastfeeding-in-the-first-hour.html",
+        "source": "Stanford Medicine / First Droplets",
+        "purpose": "黄金一小时的总览式导入"
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "title": "初乳与开奶",
+    "videos": [
+      {
+        "name": "Early Initiation of Breastfeeding",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/early-initiation-of-breastfeeding.html",
+        "source": "Stanford Medicine / Global Health Media",
+        "purpose": "早接触、早吸吮、出生后第一步"
+      },
+      {
+        "name": "A Perfect Latch",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/a-perfect-latch.html",
+        "source": "Stanford Medicine / First Droplets",
+        "purpose": "含乳和起始动作示范"
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "title": "产后一周",
+    "videos": [
+      {
+        "name": "How You Know If You Have Enough Milk",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/how-you-know-if-you-have-enough-milk.html",
+        "source": "Stanford Medicine",
+        "purpose": "判断摄入是否足够、缓解新手焦虑"
+      },
+      {
+        "name": "Common Breastfeeding Mistakes",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/common-breastfeeding-mistakes.html",
+        "source": "Stanford Medicine",
+        "purpose": "常见误区拆解"
+      },
+      {
+        "name": "If Breastfeeding is Not Successful",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/if-breastfeeding-is-not-successful.html",
+        "source": "Stanford Medicine",
+        "purpose": "失败时的下一步与替代方案"
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "title": "0-6个月纯母乳喂养",
+    "videos": [
+      {
+        "name": "Hand Expressing Milk",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/hand-expressing-milk.html",
+        "source": "Stanford Medicine / First Droplets",
+        "purpose": "涨奶、分离、应急挤奶"
+      },
+      {
+        "name": "Maximizing Milk Production with Hands-On Pumping",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/maximizing-milk-production.html",
+        "source": "Stanford Medicine / First Droplets",
+        "purpose": "背奶、泵奶、维持泌乳"
+      },
+      {
+        "name": "Storage and Shipping Instructions",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/storage-and-shipping.html",
+        "source": "Stanford Medicine",
+        "purpose": "乳汁储存与运输规范"
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "title": "母乳喂养通识",
+    "videos": [
+      {
+        "name": "Milk and Meds",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/milk-and-meds.html",
+        "source": "Stanford Medicine",
+        "purpose": "用药与哺乳边界"
+      },
+      {
+        "name": "How You Know If You Have Enough Milk",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/how-you-know-if-you-have-enough-milk.html",
+        "source": "Stanford Medicine",
+        "purpose": "供需平衡与哺乳信心"
+      },
+      {
+        "name": "Common Breastfeeding Mistakes",
+        "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/common-breastfeeding-mistakes.html",
+        "source": "Stanford Medicine",
+        "purpose": "误区识别"
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "title": "辅食过渡",
+    "videos": [],
+    "notes": ["目前待补权威公开视频"]
+  },
+  {
+    "chapter": 7,
+    "title": "人工喂养与替代喂养",
+    "videos": [],
+    "notes": ["目前待补权威公开视频"]
+  }
+]

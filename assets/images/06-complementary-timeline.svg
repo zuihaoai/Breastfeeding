@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" fill="none">
+  <rect width="1600" height="900" fill="#FFF8EF"/>
+  <text x="120" y="120" fill="#8B4513" font-size="60" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">辅食过渡时间线</text>
+  <line x1="160" y1="430" x2="1440" y2="430" stroke="#D97706" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="240" cy="430" r="28" fill="#8B4513"/>
+  <circle cx="620" cy="430" r="28" fill="#8B4513"/>
+  <circle cx="980" cy="430" r="28" fill="#8B4513"/>
+  <circle cx="1340" cy="430" r="28" fill="#8B4513"/>
+  <rect x="150" y="500" width="180" height="160" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <rect x="540" y="500" width="180" height="160" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <rect x="900" y="500" width="180" height="160" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <rect x="1260" y="500" width="180" height="160" rx="28" fill="#FFE7C2" stroke="#D97706" stroke-width="4"/>
+  <text x="186" y="570" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">0-6月</text>
+  <text x="565" y="570" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">6月+</text>
+  <text x="928" y="570" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">逐步加量</text>
+  <text x="1288" y="570" fill="#5C3410" font-size="32" font-family="Arial, 'PingFang SC', sans-serif" font-weight="700">持续观察</text>
+  <text x="150" y="715" fill="#5C3410" font-size="24" font-family="Arial, 'PingFang SC', sans-serif">纯母乳喂养</text>
+  <text x="540" y="715" fill="#5C3410" font-size="24" font-family="Arial, 'PingFang SC', sans-serif">准备第一口辅食</text>
+  <text x="900" y="715" fill="#5C3410" font-size="24" font-family="Arial, 'PingFang SC', sans-serif">观察过敏与接受度</text>
+  <text x="1260" y="715" fill="#5C3410" font-size="24" font-family="Arial, 'PingFang SC', sans-serif">继续母乳为主</text>
+</svg>

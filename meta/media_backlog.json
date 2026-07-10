@@ -58,7 +58,7 @@
     "title": "0-6个月纯母乳喂养",
     "priority": "P0",
     "images": [
-      "尿布计数图",
+      "04-diaper-count.svg",
       "乳腺炎处置流程图",
       "坐月子误区对照图"
     ],
@@ -77,7 +77,7 @@
     "title": "母乳喂养通识",
     "priority": "P1",
     "images": [
-      "用药安全矩阵",
+      "05-medication-flow.svg",
       "WHO生长曲线图",
       "夜奶节律图"
     ],
@@ -96,7 +96,7 @@
     "title": "辅食过渡",
     "priority": "P1",
     "images": [
-      "辅食月龄时间线",
+      "06-complementary-timeline.svg",
       "第一口辅食操作图",
       "噎食风险图"
     ],
@@ -115,7 +115,7 @@
     "title": "人工喂养与替代喂养",
     "priority": "P1",
     "images": [
-      "奶粉选择对比图",
+      "07-formula-prep.svg",
       "冲泡步骤图",
       "营销骗局对照图"
     ],
