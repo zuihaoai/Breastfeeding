@@ -30,6 +30,8 @@ class BuildBookTest(unittest.TestCase):
         self.assertIn("## 01 孕期认知储备", readme)
         self.assertIn("[巴克假说](#point-01-005)", readme)
         self.assertIn('<a id="point-01-005"></a>', readme)
+        self.assertIn("      - [怀孕即被盯上](#point-07-012)", readme)
+        self.assertIn("    - [奶粉如何营销](#point-07-011)", readme)
 
 
 if __name__ == "__main__":
