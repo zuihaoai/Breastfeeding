@@ -23,10 +23,13 @@ class BuildBookTest(unittest.TestCase):
         self.assertIn("# Breastfeeding", text)
         self.assertIn("## 01 孕期认知储备", text)
         self.assertIn("## 07 人工喂养与替代喂养", text)
-        self.assertNotIn("## 阅读入口", readme)
+        self.assertIn("## 阅读入口", readme)
+        self.assertIn("[在线阅读与 PDF 下载](index.html)", readme)
         self.assertNotIn("源文件：", readme)
         self.assertIn("## 目录", readme)
         self.assertIn("## 01 孕期认知储备", readme)
+        self.assertIn("[巴克假说](#point-01-005)", readme)
+        self.assertIn('<a id="point-01-005"></a>', readme)
 
 
 if __name__ == "__main__":
