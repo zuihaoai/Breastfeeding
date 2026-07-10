@@ -14,6 +14,9 @@
 - [Breastfeeding in the First Hour](https://med.stanford.edu/newborns/professional-education/breastfeeding/breastfeeding-in-the-first-hour.html)
   - 来源：Stanford Medicine / First Droplets
   - 用途：黄金一小时的总览式导入
+- [Breastfeeding in the First Hours](https://globalhealthmedia.org/video/breastfeeding-in-the-first-hours-after-birth/)
+  - 来源：Global Health Media Project
+  - 用途：产前先建立出生后第一小时的动作预期
 
 ## 02 初乳与开奶
 
@@ -23,6 +26,9 @@
 - [A Perfect Latch](https://med.stanford.edu/newborns/professional-education/breastfeeding/a-perfect-latch.html)
   - 来源：Stanford Medicine / First Droplets
   - 用途：含乳和起始动作示范
+- [Attaching Your Baby at the Breast](https://globalhealthmedia.org/video/attaching-your-baby-at-the-breast/)
+  - 来源：Global Health Media Project
+  - 用途：更细的含接动作演示
 
 ## 03 产后一周
 
@@ -35,6 +41,12 @@
 - [If Breastfeeding is Not Successful](https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/if-breastfeeding-is-not-successful.html)
   - 来源：Stanford Medicine
   - 用途：失败时的下一步与替代方案
+- [Is Your Baby Getting Enough Milk](https://globalhealthmedia.org/video/is-your-baby-getting-enough-milk/)
+  - 来源：Global Health Media Project
+  - 用途：和产后一周的吃够判断直接对应
+- [Breastfeeding in the First Hours](https://globalhealthmedia.org/video/breastfeeding-in-the-first-hours-after-birth/)
+  - 来源：Global Health Media Project
+  - 用途：把黄疸、早接触和第一小时喂养连起来看
 
 ## 04 0-6个月纯母乳喂养
 
@@ -47,6 +59,18 @@
 - [Storage and Shipping Instructions](https://med.stanford.edu/newborns/professional-education/breastfeeding/storage-and-shipping.html)
   - 来源：Stanford Medicine
   - 用途：乳汁储存与运输规范
+- [How to Express Breastmilk](https://globalhealthmedia.org/video/how-to-express-breastmilk/)
+  - 来源：Global Health Media Project
+  - 用途：手挤奶的动作补充
+- [Increasing Your Milk Supply](https://globalhealthmedia.org/video/increasing-your-milk-supply/)
+  - 来源：Global Health Media Project
+  - 用途：低奶量与供需刺激的实操说明
+- [Expressing and Storing Breastmilk](https://globalhealthmedia.org/video/expressing-and-storing-breastmilk/)
+  - 来源：Global Health Media Project
+  - 用途：背奶和存奶流程的整合参考
+- [Storing Breastmilk Safely](https://globalhealthmedia.org/video/storing-breastmilk-safely/)
+  - 来源：Global Health Media Project
+  - 用途：母乳储存安全的补充说明
 
 ## 05 母乳喂养通识
 
@@ -59,11 +83,25 @@
 - [Common Breastfeeding Mistakes](https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/common-breastfeeding-mistakes.html)
   - 来源：Stanford Medicine
   - 用途：误区识别
+- [Helping a Breastfeeding Mother](https://globalhealthmedia.org/video/helping-a-breastfeeding-mother/)
+  - 来源：Global Health Media Project
+  - 用途：家庭和照护者怎么支持母乳喂养
+- [Breast Pain](https://globalhealthmedia.org/video/breast-pain/)
+  - 来源：Global Health Media Project
+  - 用途：乳房疼痛与乳腺问题的入门解释
+- [Nipple Pain](https://globalhealthmedia.org/video/nipple-pain/)
+  - 来源：Global Health Media Project
+  - 用途：乳头疼痛的识别与处理
+- [Breast Engorgement](https://globalhealthmedia.org/video/breast-engorgement/)
+  - 来源：Global Health Media Project
+  - 用途：涨奶和乳房胀痛的处理参考
 
 ## 06 辅食过渡
 
-- 暂无可用公开视频
-- 备注：目前待补权威公开视频
+- [Nutrition Series](https://globalhealthmedia.org/our-projects/nutrition/)
+  - 来源：Global Health Media Project / UNICEF
+  - 用途：6-24个月辅食过渡与喂养实践总入口
+- 备注：17部营养系列视频为辅食章节提供权威总入口
 
 ## 07 人工喂养与替代喂养
 

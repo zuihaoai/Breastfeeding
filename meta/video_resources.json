@@ -14,6 +14,12 @@
         "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/breastfeeding-in-the-first-hour.html",
         "source": "Stanford Medicine / First Droplets",
         "purpose": "黄金一小时的总览式导入"
+      },
+      {
+        "name": "Breastfeeding in the First Hours",
+        "url": "https://globalhealthmedia.org/video/breastfeeding-in-the-first-hours-after-birth/",
+        "source": "Global Health Media Project",
+        "purpose": "产前先建立出生后第一小时的动作预期"
       }
     ]
   },
@@ -32,6 +38,12 @@
         "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/a-perfect-latch.html",
         "source": "Stanford Medicine / First Droplets",
         "purpose": "含乳和起始动作示范"
+      },
+      {
+        "name": "Attaching Your Baby at the Breast",
+        "url": "https://globalhealthmedia.org/video/attaching-your-baby-at-the-breast/",
+        "source": "Global Health Media Project",
+        "purpose": "更细的含接动作演示"
       }
     ]
   },
@@ -56,6 +68,18 @@
         "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/if-breastfeeding-is-not-successful.html",
         "source": "Stanford Medicine",
         "purpose": "失败时的下一步与替代方案"
+      },
+      {
+        "name": "Is Your Baby Getting Enough Milk",
+        "url": "https://globalhealthmedia.org/video/is-your-baby-getting-enough-milk/",
+        "source": "Global Health Media Project",
+        "purpose": "和产后一周的吃够判断直接对应"
+      },
+      {
+        "name": "Breastfeeding in the First Hours",
+        "url": "https://globalhealthmedia.org/video/breastfeeding-in-the-first-hours-after-birth/",
+        "source": "Global Health Media Project",
+        "purpose": "把黄疸、早接触和第一小时喂养连起来看"
       }
     ]
   },
@@ -80,6 +104,30 @@
         "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/storage-and-shipping.html",
         "source": "Stanford Medicine",
         "purpose": "乳汁储存与运输规范"
+      },
+      {
+        "name": "How to Express Breastmilk",
+        "url": "https://globalhealthmedia.org/video/how-to-express-breastmilk/",
+        "source": "Global Health Media Project",
+        "purpose": "手挤奶的动作补充"
+      },
+      {
+        "name": "Increasing Your Milk Supply",
+        "url": "https://globalhealthmedia.org/video/increasing-your-milk-supply/",
+        "source": "Global Health Media Project",
+        "purpose": "低奶量与供需刺激的实操说明"
+      },
+      {
+        "name": "Expressing and Storing Breastmilk",
+        "url": "https://globalhealthmedia.org/video/expressing-and-storing-breastmilk/",
+        "source": "Global Health Media Project",
+        "purpose": "背奶和存奶流程的整合参考"
+      },
+      {
+        "name": "Storing Breastmilk Safely",
+        "url": "https://globalhealthmedia.org/video/storing-breastmilk-safely/",
+        "source": "Global Health Media Project",
+        "purpose": "母乳储存安全的补充说明"
       }
     ]
   },
@@ -104,14 +152,45 @@
         "url": "https://med.stanford.edu/newborns/professional-education/breastfeeding/abcs-of-breastfeeding/common-breastfeeding-mistakes.html",
         "source": "Stanford Medicine",
         "purpose": "误区识别"
+      },
+      {
+        "name": "Helping a Breastfeeding Mother",
+        "url": "https://globalhealthmedia.org/video/helping-a-breastfeeding-mother/",
+        "source": "Global Health Media Project",
+        "purpose": "家庭和照护者怎么支持母乳喂养"
+      },
+      {
+        "name": "Breast Pain",
+        "url": "https://globalhealthmedia.org/video/breast-pain/",
+        "source": "Global Health Media Project",
+        "purpose": "乳房疼痛与乳腺问题的入门解释"
+      },
+      {
+        "name": "Nipple Pain",
+        "url": "https://globalhealthmedia.org/video/nipple-pain/",
+        "source": "Global Health Media Project",
+        "purpose": "乳头疼痛的识别与处理"
+      },
+      {
+        "name": "Breast Engorgement",
+        "url": "https://globalhealthmedia.org/video/breast-engorgement/",
+        "source": "Global Health Media Project",
+        "purpose": "涨奶和乳房胀痛的处理参考"
       }
     ]
   },
   {
     "chapter": 6,
     "title": "辅食过渡",
-    "videos": [],
-    "notes": ["目前待补权威公开视频"]
+    "videos": [
+      {
+        "name": "Nutrition Series",
+        "url": "https://globalhealthmedia.org/our-projects/nutrition/",
+        "source": "Global Health Media Project / UNICEF",
+        "purpose": "6-24个月辅食过渡与喂养实践总入口"
+      }
+    ],
+    "notes": ["17部营养系列视频为辅食章节提供权威总入口"]
   },
   {
     "chapter": 7,
