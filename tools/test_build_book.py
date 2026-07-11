@@ -32,6 +32,10 @@ class BuildBookTest(unittest.TestCase):
         self.assertIn('<a id="point-01-005"></a>', readme)
         self.assertIn("      - [怀孕即被盯上](#point-07-012)", readme)
         self.assertIn("    - [奶粉如何营销](#point-07-011)", readme)
+        self.assertIn("assets/images/article-illustrations/point-01-001.png", readme)
+        self.assertIn("assets/images/03-jaundice-phototherapy-thresholds.png", readme)
+        self.assertIn("docs/05-权威资源下载与核验.md", readme)
+        self.assertIn("docs/06-G6PD溶血触发物质清单.md", readme)
 
 
 if __name__ == "__main__":
