@@ -381,11 +381,17 @@
 
 <a id="point-01-013"></a>
 ### 孕期 - 认知储备 - 哺乳征程
+
+![孕期 - 认知储备 - 哺乳征程配图](assets/images/article-illustrations/point-01-013.png)
 <a id="point-01-014"></a>
 #### 母乳喂养不亚于万里长征，准备好了吗？
 
+![母乳喂养不亚于万里长征，准备好了吗？配图](assets/images/article-illustrations/point-01-014.png)
+
 <a id="point-01-015"></a>
 #### 第一部分，孤立无援的母乳喂养大环境
+
+![第一部分，孤立无援的母乳喂养大环境配图](assets/images/article-illustrations/point-01-015.png)
 
 <a id="point-01-016"></a>
 ##### 仅有5%的新生儿第一口奶吃的是母乳
@@ -398,6 +404,8 @@
 
 <a id="point-01-017"></a>
 ##### 因诺琴蒂宣言与全球共识
+
+![因诺琴蒂宣言与全球共识配图](assets/images/article-illustrations/point-01-017.png)
 
 为了对抗日益疯狂的资本掠夺，1989年，世界卫生组织（WHO）和联合国儿童基金会（UNICEF）首次联合提出“纯母乳喂养”的倡议，倡导婴儿在出生后前6个月应完全由母乳喂养。
 
@@ -425,6 +433,8 @@
 
 <a id="point-01-018"></a>
 ##### 抱歉，政府并未实质支持父母
+
+![抱歉，政府并未实质支持父母配图](assets/images/article-illustrations/point-01-018.png)
 
 守护母乳喂养最重要的力量是政府，看一个政府是守护婴童福祉，还是只在乎资本利益，不要听它说什么，要看它做什么。
 
