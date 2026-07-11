@@ -156,6 +156,12 @@ def add_point_anchors(
             _, normalized_level, title = next(records)
             display_level = 3 if normalized_level <= 2 else normalized_level + 1
             lines.append(f"{'#' * display_level} {title}")
+            illustration = ROOT / "assets" / "images" / "article-illustrations" / f"{point_id(chapter_number, point_number)}.png"
+            if illustration.exists():
+                lines.append("")
+                lines.append(
+                    f"![{title}配图](assets/images/article-illustrations/{illustration.name})"
+                )
             continue
         lines.append(line)
     return "\n".join(lines)
@@ -176,6 +182,8 @@ def build() -> str:
     lines.append("- [目录总表（含检索标签）](docs/00-目录总表.md)")
     lines.append("- [电子书导入方案](docs/01-电子书导入方案.md)")
     lines.append("- [插图视频映射方案](docs/02-插图视频映射方案.md)")
+    lines.append("- [权威资源下载与核验](docs/05-权威资源下载与核验.md)")
+    lines.append("- [G6PD 溶血触发物质清单](docs/06-G6PD溶血触发物质清单.md)")
     lines.append("")
     lines.append("## 目录")
     lines.append("")
@@ -186,6 +194,7 @@ def build() -> str:
         lines.append(f"{number}. [{title}](#{anchor})")
         source = ROOT / chapter["source"]
         chapter_text = strip_yaml_frontmatter(read_text(source)).strip()
+        chapter_text = chapter_text.replace("../assets/", "assets/").replace("../docs/", "docs/")
         lines.extend(chapter_outline(chapter, chapter_text))
     lines.append("")
     lines.append("---")
@@ -196,6 +205,7 @@ def build() -> str:
         title = chapter["title"]
         source = ROOT / chapter["source"]
         chapter_text = strip_yaml_frontmatter(read_text(source)).strip()
+        chapter_text = chapter_text.replace("../assets/", "assets/").replace("../docs/", "docs/")
 
         lines.append(f'<a id="chapter-{number:02d}"></a>')
         lines.append(f"## {number:02d} {title}")
@@ -241,6 +251,8 @@ def build_readme(book_text: str) -> str:
     lines.append("- [目录总表（含检索标签）](docs/00-目录总表.md)")
     lines.append("- [电子书导入方案](docs/01-电子书导入方案.md)")
     lines.append("- [插图视频映射方案](docs/02-插图视频映射方案.md)")
+    lines.append("- [权威资源下载与核验](docs/05-权威资源下载与核验.md)")
+    lines.append("- [G6PD 溶血触发物质清单](docs/06-G6PD溶血触发物质清单.md)")
     lines.append("")
     lines.append("## 目录")
     lines.append("")
